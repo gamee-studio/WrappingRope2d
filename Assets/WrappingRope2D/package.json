@@ -1,0 +1,29 @@
+{
+	"name": "com.gamee.wrappingrope2d",
+	"displayName": "wrappingrope2d",
+	"description": "Wrapping Rope 2d",
+	"version": "1.0",
+	"unity": "2021.1",
+	"category": "gamee",
+	"author": {
+		"name": "hiukka",
+		"email": "hieuhv@gameestudio.com",
+		"url": "https://github.com/Hieukk"
+	},
+	"license": "MIT",
+	"keywords": [
+		"rope",
+		"rope2d",
+		"wrappingrop2d"
+	],
+	"dependencies": {
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:gamee-studio/WrappingRope2d.git",
+		"directory": "com.gamee.wrappingrope2d"
+	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com/@gamee-studio"
+	}
+}
