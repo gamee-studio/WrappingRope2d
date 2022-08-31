@@ -1,13 +1,13 @@
 # What
 
-Integration module for implementing in-game advertising for Unity 3d
+Used rope to wrap objects
 
 ## How To Install
 
 Add the following lines below to `Packages/manifest.json`
 
-- for excactly version `1.0.14`
+- for excactly version `1.0`
 
 ```csharp
-"com.gamee.wrappingrope2d": "https://github.com/gamee-studio/ads.git?path=Assets/WrappingRope2D",
+"com.gamee.wrappingrope2d": "https://github.com/gamee-studio/WrappingRope2d.git?path=Assets/WrappingRope2D",
 ```
